@@ -1,0 +1,4 @@
+# dsgn270-a4
+*For this project we got hired by a"company" to make them a webpage so i decided to go with GameStops as it is a very bad webpage to begin with. For my design of it i followed some what of their current look but made it easier to access and took less off th epages as i thought it looked like way too much stuff for when you first open the page. 
+*I went with the colour scheme of the three main consoles which is green blue red and white whcih just symbolizes all of the gaming consoles logos which i think they should be doing more of to make it feel more like a gaming thing if you know the colours you'll be more comfortable looking at the sight its not just a bunch of random bright colours put together.
+* I think my design makes it look more sleek but still keeps the promotions they want you to see right away.
